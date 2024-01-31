@@ -23,9 +23,9 @@
 .buttoninvalid{
   font: inherit;
   padding: 0.5rem 1.5rem;
-  border: 1px solid #3a09ed;
+  border: 1px solid #ed0909;
   color: white;
-  background: #786ddb;
+  background: #e77a67;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
   cursor: pointer;
 }
